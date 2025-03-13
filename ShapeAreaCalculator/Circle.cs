@@ -15,4 +15,10 @@ public class Circle : Shape , CalculateArea
         //throw new NotImplementedException();
         return PI * radius * radius;
     }
+
+    public override void display()
+    {
+        base.display();
+        Console.WriteLine("Area of Circle" + CalculateArea());
+    }
 }

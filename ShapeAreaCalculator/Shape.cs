@@ -10,6 +10,7 @@ public abstract class Shape
 
   public virtual void display()
   {
+    
   }
   
 }

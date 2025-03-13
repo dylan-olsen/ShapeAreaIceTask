@@ -17,4 +17,10 @@ public class Rectangle : Shape, CalculateArea
        // throw new NotImplementedException();
        return width * height;
     }
+
+    public override void display()
+    {
+        base.display();
+        Console.WriteLine("Area of Recntagle:" + CalculateArea());
+    }
 }

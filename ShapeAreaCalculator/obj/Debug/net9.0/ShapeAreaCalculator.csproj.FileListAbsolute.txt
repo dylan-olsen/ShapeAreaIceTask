@@ -1,0 +1,15 @@
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net9.0\ShapeAreaCalculator.exe
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net9.0\ShapeAreaCalculator.deps.json
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net9.0\ShapeAreaCalculator.runtimeconfig.json
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net9.0\ShapeAreaCalculator.dll
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net9.0\ShapeAreaCalculator.pdb
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\ShapeAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\ShapeAreaCalculator.AssemblyInfo.cs
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\ShapeAreaCalculator.sourcelink.json
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\ShapeAreaCalculator.dll
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\refint\ShapeAreaCalculator.dll
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\ShapeAreaCalculator.pdb
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\ShapeAreaCalculator.genruntimeconfig.cache
+C:\Users\dylan\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net9.0\ref\ShapeAreaCalculator.dll

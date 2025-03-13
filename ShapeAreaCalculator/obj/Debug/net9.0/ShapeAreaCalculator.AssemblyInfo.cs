@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShapeAreaCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+654827ee78dca0eb9ff4feec230f2d2038ece8c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShapeAreaCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShapeAreaCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
