@@ -1,0 +1,15 @@
+# Ignore IDE project files
+.idea/
+*.iml
+
+# Ignore build output directories
+/out/
+/bin/
+/build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
